@@ -2,4 +2,4 @@
 
 В коде (вот прям тут) ничего качать не надо.
 
-Обновление происзвожу именно в [Reliz](https://github.com/9564519/Arma-3-KOTH-MPMissionsCache/releases/tag/reliz)
+Обновление произвожу именно в [Reliz](https://github.com/9564519/Arma-3-KOTH-MPMissionsCache/releases/tag/reliz)
