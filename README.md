@@ -18,4 +18,4 @@
 
 ![изображение](https://github.com/user-attachments/assets/64b98e38-5f28-4e78-a3e0-04bfef300943)
 
-[Скачать MPMissionsCache](https://github.com/9564519/Arma-3-KOTH-MPMissionsCache/releases/tag/reliz)
+[go to download MPMissionsCache](https://github.com/9564519/Arma-3-KOTH-MPMissionsCache/releases/tag/reliz)
